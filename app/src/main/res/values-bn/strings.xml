@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Just Java</string>
+    <string name="chocolate_chips">চকলেট</string>
+    <string name="name">নাম</string>
+    <string name="namej"> নাম: </string>
+    <string name="order">অর্ডার</string>
+    <string name="order_summary">অর্ডার সারসংক্ষেপ</string>
+    <string name="quantity">পরিমাণ</string>
+    <string name="quantityj">পরিমাণ :</string>
+    <string name="thank_you">ধন্যবাদ!</string>
+    <string name="toppings">টপিং</string>
+    <string name="totalj">মোট:</string>
+    <string name="whipped_cream">ফেটান ক্রিম</string>
+    <string name="addwhipped_cream">ফেটান ক্রিম সংযোজন?</string>
+    <string name="addchocolate_chip">চকলেট সংযোজন?</string>
+</resources>

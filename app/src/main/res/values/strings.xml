@@ -1,0 +1,32 @@
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="app_name">Just Java</string>
+    <!--topping title xml-->
+    <string name="toppings">toppings</string>
+    <!--checkBox for wipped cream xml-->
+    <string name="whipped_cream">Whipped Cream</string>
+    <!--checkBox for chocolate chip xml-->
+    <string name="chocolate_chips">Chocolate chips</string>
+    <!--quantity title xml-->
+    <string name="quantity">Quantity</string>
+    <!--order summary title xml-->
+    <string name="order_summary">Order Summary</string>
+    <!--Order button xml-->
+    <string name="order">ORDER</string>
+    <!--EditText customer name input hint xml-->
+    <string name="name">Name</string>
+    <!--in subbmitOrder coustomer name text java-->
+    <string name="namej"> Name: </string>
+    <!--in subbmitOrder add whipped cream text java-->
+    <string name="addwhipped_cream">Add Whipped Cream? </string>
+    <!--in subbmitOrder add chocolate chip text java-->
+    <string name="addchocolate_chip">Add Chocolate Chip? </string>
+    <!--in subbmitOrder quantity text java-->
+    <string name="quantityj">Quantity: </string>
+    <!--in subbmitOrder total text java-->
+    <string name="totalj">Total: </string>
+    <!--in subbmitOrder thank you text java-->
+    <string name="thank_you">Thank You!</string>
+    <!--in subbmitOrder as composeEmail subject parameter text java-->
+    <string name="email_subject" translatable="false"> Order for </string>
+
+</resources>
